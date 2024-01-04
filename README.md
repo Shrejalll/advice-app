@@ -21,7 +21,8 @@ Welcome to the Advice App! This app is designed to offer helpful advice and insi
 - **Random Advice:** Get random pieces of advice for various situations.
 - **Categories:** Browse advice based on different categories.
 - **Search Functionality:** Find advice tailored to specific keywords or topics.
-
+![Screenshot (50)](https://github.com/Shrejalll/advice-app/assets/139336892/1142e9db-05b8-483b-b6e9-8e2c512a7a9e)
+Link:- https://github.com/Shrejalll/advice-app.git
 ## Getting Started
 
 To get started with the Advice App, follow the instructions below.
